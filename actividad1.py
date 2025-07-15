@@ -1,4 +1,3 @@
 print("hello world")
 print("hello world")
-print("perro rebelde")
-nnn ccc
+print("diego es deidad")
