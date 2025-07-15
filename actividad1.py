@@ -1,3 +1,6 @@
 print("hello world")
 print("hello world")
 print("diego es deidad")
+print("diego nooooo")
+print("diego salvanos del mundo, con tu poder danos la vida eterna, muestra el camino de la verdad")
+print("el sol, la luna, la verdad")
